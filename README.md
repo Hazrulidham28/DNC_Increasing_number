@@ -1,3 +1,5 @@
+#Multi-threaded Merge Sort in Java
+
 This Java project demonstrates a multi-threaded approach to the classic Merge Sort algorithm. Using Java's concurrency utilities, such as CountDownLatch and synchronized, this program sorts an array of integers entered by the user. The code highlights efficient sorting through multithreading and synchronization, showcasing Java's Runnable interface and thread management features.
 
 Features
